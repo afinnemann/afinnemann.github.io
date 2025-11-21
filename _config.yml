@@ -3,5 +3,5 @@ description: "Postdoc – Center for Urban Mental health, Amsterdam UMC and UvA"
 theme: jekyll-theme-minimal
 
 # Optional, but nice:
-logo: /assets/profile.jpg    # only if you add such a file later
+#logo: /assets/profile.jpg    # only if you add such a file later
 show_downloads: false
