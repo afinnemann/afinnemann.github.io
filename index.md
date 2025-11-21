@@ -1,11 +1,7 @@
 ---
 layout: default
-title: "Adam Finnemann"
+
 ---
-
-# Adam Finnemann
-_Postdoc · Center for Urban Mental Health, Amsterdam UMC and UvA_
-
 ## Introduction
 
 Hey, I'm a postdoc at the Urban Mental Health, Amsterdam UMC and UvA. I did my phd ath the psychological methods group, UvA, where I worked in the Theory Methods Lab and the Center for Urban Mental Health. Before that, I was to have received a multitude of perspectives through my three formal educations: philosophy (BA), cognitive science (BA), and psychology (Research MA).
@@ -48,3 +44,4 @@ Feel free to contact me through Twitter or mail: adam.finnemann [at] gmail [dot]
 
 - **An Urban Desirability paradox? A Large Scale Study of UK Urban Psychology**  
   Presented at the 2022 IOPS Conference
+
