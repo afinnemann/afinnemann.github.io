@@ -1,0 +1,8 @@
+title: "Adam Finnemann"
+description: "PhD candidate – Complex systems, urban mental health, metascience"
+url: "https://afinnemann.github.io"
+theme: jekyll-theme-minimal
+
+# Optional, but nice:
+logo: /assets/profile.jpg    # only if you add such a file later
+show_downloads: false
