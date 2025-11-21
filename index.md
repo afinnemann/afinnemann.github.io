@@ -4,54 +4,47 @@ title: "Adam Finnemann"
 ---
 
 # Adam Finnemann
+_Postdoc · Center for Urban Mental Health, Amsterdam UMC and UvA_
 
-Postdoc · Center for Urban Mental Health, Amsterdam UMC and University of Amsterdam_  
-_Complex systems · Urban mental health 
+## Introduction
 
----
+Hey, I'm a postdoc at the Urban Mental Health, Amsterdam UMC and UvA. I did my phd ath the psychological methods group, UvA, where I worked in the Theory Methods Lab and the Center for Urban Mental Health. Before that, I was to have received a multitude of perspectives through my three formal educations: philosophy (BA), cognitive science (BA), and psychology (Research MA).
 
-## About
+My primary interest are applying quantitative methods (complexity science and data science) to study how cities shape well-being. I also try to keep up with developments in quantitative methods and peer-review.
 
-I am a Postdoc at the Center for Urban Mental Health Amsterdam AMC and UvA working on complex systems, urban mental health, and climate change.
-You can reach me at [adam.finnemann [at] gmail.com]
+.
 
----
-
-## Research & Publications
-
-- **Paper title goes here** – _Journal / Year_  
-  Short one-line description of what this paper is about.  
-  [PDF link](#) · [DOI](#)
-
-- **Another paper** – _Journal / Year_  
-  One line summary of the contribution.  
-  [PDF](#) · [Preprint](#)
-
-_Add/adjust this list to match the stuff that’s currently on your site._
+Feel free to contact me through Twitter or mail: adam.finnemann [at] gmail [dot] com
 
 ---
 
-## Talks & Presentations
+## Scientific output
 
-- **Talk title** – Event / Institution, Year  
-  One-sentence summary of what the talk covered.  
-  [Slides](#) · [Recording](#)
+### Articles
 
----
+- Finnemann, A., Borsboom, D., Epskamp, S., & van der Maas, H. L. (2021). _The Theoretical and Statistical Ising Model: A Practical Guide in R_. _Psych, 3_(4), 594–618.
 
-## Blog / Writing
+- Finnemann, A., Huth, K. B., van den Ende, M. W., & Sloot, P. M. (2022). _No robust relation between larger cities and depression_. _Proceedings of the National Academy of Sciences, 119_(2).
 
-- **Post or essay title** – _Year_  
-  One-line teaser.  
-  [Read it](#)
+- Koelen, J. A., Mansueto, A. C., Finnemann, A., de Koning, L., van der Heijde, C. M., Vonk, P., ... & Wiers, R. W. (2021). _COVID‐19 and mental health among at‐risk university students: A prospective study into risk and protective factors_. _International Journal of Methods in Psychiatric Research_, e1901.
 
-(You can add more posts later; for now just link out to wherever they currently live.)
+- van Dongen, N., van Bork, R., Finnemann, A., van der Maas, H., Robinaugh, D., Haslbeck, J., ... & Borsboom, D. (2022). _Improving Psychological Explanations_.
+
+[Google Scholar](#) <!-- replace # with your actual scholar link -->
 
 ---
 
-## Links
+### Blog posts
 
-- [Google Scholar](#)
-- [ORCID](#)
-- [GitHub](https://github.com/afinnemann)
-- [Twitter / X](#)
+- _Is Academic Acceleration Leaving Peer Review in the Dust?_
+- _Blog on generalised additive models and `geom_smooth()`_
+
+---
+
+### Talks
+
+- **A Mayor’s Depression: Do mental health disorders scale with city size?**  
+  Presented at the 2021 Conference on Complex Systems
+
+- **An Urban Desirability paradox? A Large Scale Study of UK Urban Psychology**  
+  Presented at the 2022 IOPS Conference
