@@ -9,7 +9,7 @@ body {
   background-size: cover;
 }
 
-=/* Soft background panel behind text */
+/* Soft background panel behind text */
 .wrapper {
   max-width: 900px;
   margin: 4rem auto;
@@ -17,6 +17,7 @@ body {
   background: rgba(207, 202, 171, 0.85); /* warm light tone */
   border-radius: 10px; /* soft rounding */
 }
+
 /* Darker body text for readability */
 body,
 p,
@@ -24,6 +25,16 @@ li {
   color: #2a2a2a; /* dark neutral */
 }
 
+/* Make all links black */
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #333333;
+  text-decoration: underline;
+}
 
 /* Keep sidebar solid so your name and links stay readable */
 .sidebar {
