@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Use your image as a full-page background */
+body {
+  background: url("/assets/adam_cover no text.png") no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* Put content in a light box on the right so it stays readable */
+.wrapper {
+  max-width: 800px;
+  margin-left: auto;   /* pushes it to the right */
+  margin-right: 5%;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+/* Keep sidebar solid so your name and links stay readable */
+.sidebar {
+  background-color: #fdfdfd;
+  opacity: 0.98;
+}
