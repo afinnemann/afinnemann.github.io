@@ -9,21 +9,17 @@ body {
   background-size: cover;
 }
 
-
-
 /* Remove the light box completely — let text sit over the background */
 .wrapper {
   max-width: 900px;
   margin: 4rem auto;
   padding: 2rem;
-  background: none;     /* no background */
-  box-shadow: none;     /* remove any shadow */
-  border-radius: 0;     /* remove rounding */
+  background: none;
+  box-shadow: none;
+  border-radius: 0;
 }
-
 
 /* Keep sidebar solid so your name and links stay readable */
 .sidebar {
   background-color: rgba(255, 255, 255, 0.85);
 }
-
