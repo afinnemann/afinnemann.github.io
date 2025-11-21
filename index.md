@@ -8,8 +8,6 @@ Hey, I'm a postdoc at the Urban Mental Health, Amsterdam UMC and UvA. I did my p
 
 My primary interest are applying quantitative methods (complexity science and data science) to study how cities shape well-being. I also try to keep up with developments in quantitative methods and peer-review. I'm also active in complexity community where I help organise the [Winter Workshop on Complexity Science](https://wwcs2023.github.io/) and the [Amsterdam Complexity School on Climate change](https://acscc.nl/).
 
-.
-
 Feel free to contact me through Twitter or mail: adam.finnemann [at] gmail [dot] com
 
 ---
@@ -120,6 +118,7 @@ van Dongen, N., Finnemann, A., de Ron, J., Tiokhin, L., Wang, S., … (2025). Pr
 
 - **Open science put to practice**  
   Panel discussion, Student Initiative for Open Science, Amsterdam, the Netherlands.
+
 
 
 
