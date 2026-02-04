@@ -4,9 +4,9 @@ layout: default
 ---
 ## Introduction
 
-Hey, I'm a postdoc at the Urban Mental Health, Amsterdam UMC and UvA. I did my PhD at the psychological methods group, UvA, where I worked in the Theory Methods Lab and the Center for Urban Mental Health. Before that, I was to have received a multitude of perspectives through my three educations: philosophy (BA), cognitive science (BA), and psychology (Research MA).
+Hey, I'm a postdoc at the Center for Urban Mental Health, Amsterdam University Medical Center and the University of Amsterdam. I did my PhD at the Psychological Methods Group, UvA, where I worked in the Theory Methods Lab and the Center for Urban Mental Health. Before that, I received a multitude of perspectives through my three degrees: philosophy (BA), cognitive science (BA), and psychology (Research MA).
 
-My primary interest are applying quantitative methods (complexity science and data science) to study how cities shape well-being. I try to keep up with developments in quantitative methods and peer-review, and am active in the complexity community where I help organise the [Winter Workshop on Complexity Science](https://wwcs2023.github.io/) and the [Amsterdam Complexity School on Climate change](https://acscc.nl/).
+My primary interest are applying quantitative methods (complexity science and data science) to study how cities shape well-being. I try to keep up with developments in quantitative methods and peer-review, and am active in the complexity community where I help organise the [Winter Workshop on Complexity Science](https://wwcs2023.github.io/) and co-founded the [Amsterdam Complexity School on Climate change](https://acscc.nl/).
 
 Feel free to contact me through mail: adam.finnemann [at] gmail [dot] com
 
@@ -118,6 +118,7 @@ van Dongen, N., Finnemann, A., de Ron, J., Tiokhin, L., Wang, S., … (2025). Pr
 
 - **Open science put to practice**  
   Panel discussion, Student Initiative for Open Science, Amsterdam, the Netherlands.
+
 
 
 
